@@ -1,0 +1,13 @@
+
+
+
+{
+  "common": {
+    "plsEnter": "Please enter username",
+    "plsType": "Please type to search",
+    "mainLang": "Main Language: ",
+    "avForks": "Avillable Forkers: ",
+    "applogize": "Applogize! no forkers right now ",
+    "noGists": "No gists found for the user name entered"
+  }
+}
